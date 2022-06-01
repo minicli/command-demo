@@ -1,6 +1,6 @@
 <?php
 
-namespace Minicli\Demo;
+namespace Vendor\Demo;
 
 use Minicli\Command\CommandController;
 

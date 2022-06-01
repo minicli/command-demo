@@ -7,7 +7,7 @@
     "keywords": ["cli","command-line", "template"],
     "autoload": {
         "psr-4": {
-            "Minicli\\": "src/"
+            "Vendor\\": "Command/"
         }
     },
     "require": {
